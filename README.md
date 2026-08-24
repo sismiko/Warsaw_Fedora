@@ -1,4 +1,4 @@
-# Warsaw_Fedora_44
+# Warsaw Fedora 4x
 
 Shell Script para instalar o módulo Warsaw (Guardião) no Fedora 4x. Testado até o Fedora 44.
 
