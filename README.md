@@ -15,3 +15,4 @@ chmod +x instala_warsaw.sh
 
 ```
 
+Dúvidas, envia um email: warsaw_fedora@outlook.com.br
