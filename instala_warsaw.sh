@@ -12,6 +12,9 @@ else
     fi
 fi
 
+echo '### Instalando a dependencia execstack ###'
+dnf install execstack
+
 echo '### Instalando o Modulo Warsaw ###'
 rpm -ivh --nodigest warsaw-2.22.1-6.x86_64.rpm
 
